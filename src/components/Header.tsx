@@ -22,10 +22,7 @@ const Header = () => {
         <nav className='hidden lg:block'>
           <ul className="flex">
             <li className="mx-2">
-              <a href="">Instagram</a>
-            </li>
-            <li className="mx-2">
-              <a href="">Linktree</a>
+              <a href="https://www.instagram.com/salveamazonia_/" target='_blank'>Instagram</a>
             </li>
           </ul>
         </nav>
@@ -46,10 +43,7 @@ const Header = () => {
         >
           <ul className="flex flex-col text-center">
             <li className="mx-2 p-2 hover:underline">
-              <a href="">Instagram</a>
-            </li>
-            <li className="mx-2 p-2 hover:underline">
-              <a href="">Linktree</a>
+              <a href="https://www.instagram.com/salveamazonia_/" target='_blank'>Instagram</a>
             </li>
           </ul>
         </nav>

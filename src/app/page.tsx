@@ -171,11 +171,7 @@ export default function Home() {
           <div className='flex flex-col 2xl:flex-row gap-6 items-center sm:items-start'>
             <div className='flex flex-row gap-2 items-center'>
               <InstagramLogo size={24} color='#FFFFFF' weight='fill' />
-              <p className='text-sm text-white'>@fromamazonia</p>
-            </div>
-            <div className='flex flex-row gap-2 items-center'>
-              <At size={24} color='#FFFFFF' weight='regular' />
-              <p className='text-sm text-white'>fromamazonia@gmail.com</p>
+              <a href='https://www.instagram.com/salveamazonia_/' target='_blank' className='text-sm text-white'>@salveamazonia_</a>
             </div>
           </div>
         </div>
